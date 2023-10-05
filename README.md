@@ -1,2 +1,1 @@
-# hackhost_api
-HACK HOST Api
+Наши разработчики будут выкладывать работу api для нашего хостинга HACK HOST.
